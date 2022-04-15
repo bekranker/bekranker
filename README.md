@@ -2,9 +2,9 @@
 
 ### Hi there 👋 I'm Bekranker
 
-[![Itch.io Page](https://img.shields.io/badge/litch.io-bekranker-red)](https://bekranker.itch.io/)
+[![itch.io Page](https://img.shields.io/badge/litch.io-bekranker-red)](https://bekranker.itch.io/)
 [![Instagram Badge](https://img.shields.io/badge/-codingpotter-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://www.instagram.com/bekirrekiz/?hl=en)
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/bekir-ekiz-03118b229/)
+[![linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/bekir-ekiz-03118b229/)
 
 
 ## ABOUT ME
