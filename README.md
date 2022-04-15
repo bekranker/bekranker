@@ -3,8 +3,8 @@
 ### Hi there 👋 I'm Bekranker
 
 [![itch.io Page](https://img.shields.io/badge/litch.io-bekranker-red)](https://bekranker.itch.io/)
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://www.instagram.com/bekirrekiz/?hl=en)
-[![linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekir-ekiz-03118b229/)](https://www.linkedin.com/in/bekir-ekiz-03118b229/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-bekirrekiz-orange)
+[![linkedin Badge](https://img.shields.io/badge/L%C4%B1nkedin-Bekir%20ekiz-blue)](https://www.linkedin.com/in/bekir-ekiz-03118b229/)
 
 
 ## ABOUT ME
