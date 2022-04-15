@@ -1,5 +1,3 @@
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/></a>
-
 ### Hi there 👋 I'm Bekranker
 
 [![itch.io Page](https://img.shields.io/badge/litch.io-bekranker-red)](https://bekranker.itch.io/)
@@ -8,7 +6,7 @@
 
 
 ## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
+First of all my job is Game development. And this GitHub account is my portfolio. I have been use Unity for 2 years and last 3 month I been learn some VFX stuff. That's enough information about me. You can use theese tools also you should share :)
 
 - 🎮 Game Developer For 2 years
 - ✨ Doin some VFX things...  
