@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bekranker
 
-[![itch.io Page](https://img.shields.io/badge/litch.io-bekranker-red)](https://bekranker.itch.io/)
+[![itch.io Page](https://img.shields.io/badge/itch.io-bekranker-red)](https://bekranker.itch.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-bekirrekiz-orange)](https://www.instagram.com/bekirrekiz/?hl=en)
 [![linkedin Badge](https://img.shields.io/badge/L%C4%B1nkedin-Bekir%20ekiz-blue)](https://www.linkedin.com/in/bekir-ekiz-03118b229/)
 
