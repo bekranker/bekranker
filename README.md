@@ -7,7 +7,7 @@
 
 
 ## ABOUT ME
-First of all my job is Game development. And this GitHub account is my portfolio. I have been use Unity for 2 years and last 3 month I been learn some VFX stuff. That's enough information about me. You can use theese tools also you should share :)
+First of all my job is Game development. And this GitHub account is my portfolio. I have been use Unity for 3 years.
 
 - 🎮 Game Developer For 2 years
 - ✨ Doin some VFX things...  
