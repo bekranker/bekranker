@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bekranker
+### Hi there 👋 I'm Bekir
 
 [![itch.io Page](https://img.shields.io/badge/Itch.io-bekranker-red)](https://bekranker.itch.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-bekirrekiz-orange)](https://www.instagram.com/bekirrekiz/?hl=en)
