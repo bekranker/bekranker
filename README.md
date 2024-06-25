@@ -11,9 +11,3 @@ First of all my job is Game development. And this GitHub account is my portfolio
 
 - 🎮 Game Developer For 3 years
 - 🧑‍🎓 Student at Beykoz University Digital Game Design Departman.
-
-
-## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=bekranker&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
-|---|---|
-
