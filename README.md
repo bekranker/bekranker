@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc607d5e-da77-4fd8-90ea-67cd27e9c9b4)### Hi there 👋 It's Bekir, I am an Entrepreneur, creating SaaS apps and games for mobile, web or pc.
+### Hi there 👋 It's Bekir, I am an Entrepreneur, creating SaaS apps and games for mobile, web or pc.
 
 [![itch.io Page](https://img.shields.io/badge/Itch.io-bekranker-red)](https://bekranker.itch.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-bekirrekiz-orange)](https://www.instagram.com/bekirrekiz/?hl=en)
