@@ -11,4 +11,4 @@ First of all my job is Software development.
 
 - 🎮 Game Developer For 3 years
 - 🧑‍🎓 Student at Beykoz University Digital Game Design Departman.
-- 🧠 Currently building Saas apps.
+- 🧠 Currently building SaaS apps.
