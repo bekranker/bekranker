@@ -8,6 +8,5 @@
 
 ## ABOUT ME
 
-- 🎮 Game Developer since 3 years
-- 🧑‍🎓 Student at Beykoz University Digital Game Design Departman.
-- 🧠 Currently looking for a job
+- 🎮 Game Developer
+That's it..
