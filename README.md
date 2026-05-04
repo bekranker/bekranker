@@ -1,4 +1,4 @@
-### Hi there 👋 It's Bekir, I am an Entrepreneur, creating SaaS apps and games for mobile, web or pc.
+### Trying to create stuffs
 
 [![itch.io Page](https://img.shields.io/badge/Itch.io-bekranker-red)](https://bekranker.itch.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-bekirrekiz-orange)](https://www.instagram.com/bekirrekiz/?hl=en)
